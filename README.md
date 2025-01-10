@@ -11,6 +11,7 @@
   
 - <b>Active Directory</b>
   - [Understanding/Practicing DNS](https://github.com/joann-camacho/practicing-dns)
+  - [Fileshares and Permissions](https://github.com/joann-camacho/filesshares-and-permissions)
 
 
 <h2>🤳Connect with me:</h2>

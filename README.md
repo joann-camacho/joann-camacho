@@ -10,8 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joann-camacho/azure-network-protocols)
   
 - <b>Active Directory</b>
-  - [File Shares and Permissions](https://github.com/joann-camacho/fileshares-permissions-files) 
-  - [Understanding/ Practicing DNS](https://github.com/joann-camacho/practicing-dns)
+
 
 <h2>🤳Connect with me:</h2>
 

@@ -8,15 +8,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joann-camacho/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joann-camacho/azure-network-protocols)
-  - [Understanding/ Practicing DNS](https://github.com/joann-camacho/configure-ad)
+  
 - <b>Active Directory</b>
-  - [Deploying AD](https://github.com/joann-camacho/configure-ad)
-  - [User Password Reset](https://github.com/joann-camacho/configure-ad)
-  - [Recurrent User Lockout](https://github.com/joann-camacho/azure-network-protocols)
-  - [User Locked Out of the Server Error: Disabled User](https://github.com/joann-camacho/azure-network-protocols)
-  - [Users File Shares](https://github.com/joann-camacho/configure-ad)
-  - [Users Can Not Access Permissible Files](https://github.com/joann-camacho/configure-ad)
-  - [On-Domain a Client](https://github.com/joann-camacho/configure-ad)
+  - [File Shares and Permissions](https://github.com/joann-camacho/fileshares-permissions-files) 
+  - [Understanding/ Practicing DNS](https://github.com/joann-camacho/practicing-dns)
 
 <h2>🤳Connect with me:</h2>
 

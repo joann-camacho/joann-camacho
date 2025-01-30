@@ -13,7 +13,7 @@
   - [Understanding/Practicing DNS](https://github.com/joann-camacho/practicing-dns)
   - [Fileshares and Permissions](https://github.com/joann-camacho/fileshares-and-permissions)
   - [Troubleshooting User Account Logon](https://github.com/joann-camacho/troubleshooting-user-logon)
-
+  - [Create Domain Name Users Within The Domain](https://github.com/joann-camacho/create-domain-name-users)
 
 <h2>🤳Connect with me:</h2>
 

@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joann-camacho/azure-network-protocols)
   
 - <b>Active Directory</b>
-  - [Installing ADDS](https://github.com/joann-camacho/install-active-directory)
+  - [Installing Active Directory Domain Services](https://github.com/joann-camacho/install-active-directory)
   - [Create Domain Name Users Within The Domain](https://github.com/joann-camacho/create-domain-name-users)
   - [Understanding/Practicing DNS](https://github.com/joann-camacho/practicing-dns)
   - [Fileshares and Permissions](https://github.com/joann-camacho/fileshares-and-permissions)
